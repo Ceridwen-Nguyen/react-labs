@@ -1,0 +1,26 @@
+.outer-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 130px;
+}
+
+.wrapper {
+    margin: auto;
+    display: flex;
+    border: 1px solid;
+}
+
+.profile-image {
+    border-right: 1px solid;
+    height: 300px;
+}
+
+.profile-content {
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-top: 90px;
+}
+.profile-item{
+    display: flex;
+}

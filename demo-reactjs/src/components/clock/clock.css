@@ -1,0 +1,20 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    text-align: center;
+}
+
+.clock-greeting {
+    font-size: 32px;
+    font-weight: bold;
+    color: rgb(53, 198, 97);
+    margin-bottom: 20px;
+}
+
+.clock-notification {
+    font-size: 24px;
+    font-weight: bold;
+    color: rgb(197, 46, 92)
+}
