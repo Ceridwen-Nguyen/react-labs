@@ -1,0 +1,24 @@
+.world {
+    margin-top: 130px;
+    display: flex;
+    flex-wrap: wrap;
+}
+  
+.country {
+    width: calc(100% / 6);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+    color: #333; 
+    background-color: #f0f0f0; 
+    padding: 10px; 
+    margin: 5px; 
+}
+
+.country .name {
+    font-size: 18px;
+    color: gray;
+    font-weight: lighter;
+}
+
+.country .time {
+    font-size: 24px;
+}

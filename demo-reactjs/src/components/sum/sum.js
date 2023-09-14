@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import './count.css'
+import './sum.css'
 
 function Sum() {
   const [num1, setNum1] = useState(0);
