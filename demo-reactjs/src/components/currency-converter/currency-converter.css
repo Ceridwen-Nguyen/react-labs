@@ -1,0 +1,14 @@
+.currency-converter {
+    margin-top: 130px;
+    margin-left: 250px;
+    display: flex;
+    align-items: center;
+}
+  
+.currency-converter > * {
+    margin: 10px;
+}
+  
+.currency-converter p {
+    font-weight: bold;
+}  
